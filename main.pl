@@ -1,5 +1,10 @@
-/*ADVANCE VERSION*/
-
+/**
+ * Created by Arunabho Majumder on 2018-10-02 -- 23:01
+ *
+ * @author {@link "mailto:arunabho95@gmail.com" "Arunabho Majumder"}
+ * @since 2018-10-02 -- 23:01
+ *
+*/
 go:- hypothesis(Disease),
 write('I believe that the patient have'),
 write(Disease),
